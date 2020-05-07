@@ -1,12 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-<html>
-<head>
-  <title>ravnx.github.io</title>
-</head>
-<body><h2>ravnx.github.io</h2>
+# ravnx.github.io
+
 I made this for later.
-</body>
-</html>
