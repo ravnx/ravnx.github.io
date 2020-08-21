@@ -1,6 +1,6 @@
 
 ## Projects I'm working on
-I made this for later.
+So many work projects. So many personal projects.
 
 ## Photography Stuff
 [My Flickr Roll](http://flickr.com/mikedaddy)
